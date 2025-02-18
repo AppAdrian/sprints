@@ -6,7 +6,7 @@ Frontend:
    - Main Landing Page
    - Services Menu (Bubbles)
    - Register as a service provider (freelancer)
-   - Download the app
+   - Download the app Section
    - Support
    - Reviews
    - Footer

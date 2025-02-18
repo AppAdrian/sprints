@@ -72,6 +72,7 @@ Backlog:
 - Signup as a freelanecr
 - Profile page for CTUR, PRUR
 - Chat system
+- Search bar pe baza de recomandari/matching
   
 Infra: 
  - File Structure

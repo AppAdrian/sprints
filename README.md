@@ -21,14 +21,20 @@ Frontend:
 - Error Handling for API Routes
 
 **T01 - Test API Routes and the errors**
+
 TC01 - New account 
+
 TC02 - Login with right credentials
+
 TC03 - Register existing e-mail throws validation error
+
 TC04 - Login with wrong credentials throws validation error
+
 TC05 - Login with wrong format e-mail throws format error
 
+
 **MP01 - Dummy Testing FrontEnd**
-- build the front-end
+- build the testing front-end
 
 **F02 - User Roles**
 - build & define user rules and the role model

@@ -1,4 +1,4 @@
-dad#Week 1 (new deadline: 16.03.2025- Sunday): 
+#Week 1 (new deadline: 16.03.2025- Sunday): 
 
 Frontend: 
 - Finish Landing page (what we have in the Figma UI/Ux exmaple). Components:

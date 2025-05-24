@@ -12,7 +12,7 @@ Frontend:
    - Footer
 
 **Backend:**
-**F01 - User Management**
+**- User Management**
 - user model
 - build password system
 - build auth system based on jwt
